@@ -3,12 +3,18 @@ languageCode = "en-us"
 title = "Walldev"
 theme = "hugo-coder"
 
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
 [params] # theme parameters
     author = "Muhammad Awaluddin" # author's name
     info = "Product Manager" # author's job title or info
     description = "Awal's personal website" # site description
     keywords = "blog,developer,personal" # site keywords
-    avatarURL = "images/awal.jpg"
+    avatarURL = "images/wall.png"
 
     # wether you want to hide copyright and credits in the footer
     hideCredits = false
@@ -18,7 +24,6 @@ theme = "hugo-coder"
     # Hide the toggle button, along with the associated vertical divider
     hideColorSchemeToggle = false
     # Series see also post count
-    
 # Social links
 [[params.social]]
     name = "Github"
