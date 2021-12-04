@@ -55,7 +55,7 @@ enableEmoji = true
 [[menu.main]]
     name = "Blog"
     weight = 2
-    url = "/post/"
+    url = "/blog/"
 [[menu.main]]
     name = "Project"
     weight = 3
