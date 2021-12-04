@@ -53,10 +53,14 @@ enableEmoji = true
     weight = 1
     url  = "/blog/"
 [[menu.main]]
-    name = "Post"
+    name = "Blog"
     weight = 2
     url = "/post/"
 [[menu.main]]
     name = "Project"
     weight = 3
     url = "/project/"
+[[menu.main]]
+    name = "Kontak"
+    weight = 4
+    url = "kontak"
