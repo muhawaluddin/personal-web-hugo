@@ -35,17 +35,17 @@ enableEmoji = true
     name = "Github"
     icon = "fa fa-2x fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/muhawaluddin/"
 [[params.social]]
     name = "Twitter"
      icon = "fa fa-2x fa-twitter"
     weight = 2
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/walldev_?t=LAbThk9DCKeA7J0Aowr2kA&s=09"
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fa fa-2x fa-linkedin"
+    name = "Youtube"
+    icon = "fa fa-2x fa-youtube"
     weight = 3
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.youtube.com/channel/UCMQYCc8eY7mLB8-7y_l2xfA"
 
 # Menu links
 [[menu.main]]
