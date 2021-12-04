@@ -24,6 +24,7 @@ enableEmoji = true
     # Hide the toggle button, along with the associated vertical divider
     hideColorSchemeToggle = false
     # Series see also post count
+    
 # Social links
 [[params.social]]
     name = "Github"
@@ -37,7 +38,7 @@ enableEmoji = true
     url = "https://twitter.com/johndoe/"
 [[params.social]]
     name = "LinkedIn"
-     icon = "fa fa-2x fa-linkedin"
+    icon = "fa fa-2x fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/johndoe/"
 
@@ -47,6 +48,10 @@ enableEmoji = true
     weight = 1
     url  = "/blog/"
 [[menu.main]]
-    name = "post"
+    name = "Post"
+    weight = 2
+    url = "/post/"
+[[menu.main]]
+    name = "Project"
     weight = 2
     url = "/post/"
