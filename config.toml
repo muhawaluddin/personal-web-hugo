@@ -9,12 +9,15 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
+
+
 [params] # theme parameters
     author = "Muhammad Awaluddin" # author's name
     info = "Product Manager" # author's job title or info
     description = "Awal's personal website" # site description
     keywords = "blog,developer,personal" # site keywords
     avatarURL = "images/wall.png"
+    favicon = "/images/favicon-32x32.png"
 
     # wether you want to hide copyright and credits in the footer
     hideCredits = false
@@ -24,7 +27,9 @@ enableEmoji = true
     # Hide the toggle button, along with the associated vertical divider
     hideColorSchemeToggle = false
     # Series see also post count
+
     
+
 # Social links
 [[params.social]]
     name = "Github"
@@ -53,5 +58,5 @@ enableEmoji = true
     url = "/post/"
 [[menu.main]]
     name = "Project"
-    weight = 2
-    url = "/post/"
+    weight = 3
+    url = "content/walldev.md"
