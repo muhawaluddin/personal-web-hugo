@@ -1,0 +1,47 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Walldev"
+theme = "hugo-coder"
+
+[params] # theme parameters
+    author = "Muhammad Awaluddin" # author's name
+    info = "Product Manager" # author's job title or info
+    description = "Awal's personal website" # site description
+    keywords = "blog,developer,personal" # site keywords
+    avatarURL = "images/awal.jpg"
+
+    # wether you want to hide copyright and credits in the footer
+    hideCredits = false
+    hideCopyright = false
+
+    colorScheme = "auto"
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+    # Series see also post count
+    
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-2x fa-github"
+    weight = 1
+    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "Twitter"
+     icon = "fa fa-2x fa-twitter"
+    weight = 2
+    url = "https://twitter.com/johndoe/"
+[[params.social]]
+    name = "LinkedIn"
+     icon = "fa fa-2x fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/johndoe/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/blog/"
+[[menu.main]]
+    name = "post"
+    weight = 2
+    url = "/post/"
