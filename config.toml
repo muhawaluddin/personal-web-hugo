@@ -9,8 +9,6 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
-
-
 [params] # theme parameters
     author = "Muhammad Awaluddin" # author's name
     info = "Product Manager" # author's job title or info
