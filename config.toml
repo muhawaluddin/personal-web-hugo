@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params] # theme parameters
     author = "Muhammad Awaluddin" # author's name
-    #info = "Product Manager" # author's job title or info
+    info = "Product Manager" # author's job title or info
     description = "Awal's personal website" # site description
     keywords = "blog,developer,personal" # site keywords
     avatarURL = "images/wall.png"
