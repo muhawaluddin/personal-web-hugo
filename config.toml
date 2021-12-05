@@ -49,18 +49,18 @@ enableEmoji = true
 
 # Menu links
 [[menu.main]]
-    name = "Halo!"
+    name = "About"
     weight = 1
     url  = "halo"
 [[menu.main]]
-    name = "Blog"
+    name = "Blogs"
     weight = 2
     url = "/blog/"
 [[menu.main]]
-    name = "Project"
+    name = "Projects"
     weight = 3
     url = "/project/"
 [[menu.main]]
-    name = "Kontak"
+    name = "Contact"
     weight = 4
     url = "kontak"
