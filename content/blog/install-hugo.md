@@ -76,7 +76,7 @@ hugo server
 ```
 ---
 ```bash
-▶ hugo server -D
+▶ hugo server
 
                    | EN
 +------------------+----+
