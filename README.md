@@ -3,7 +3,7 @@ Build personal web with Hugo
 
 Muhammad Awaluddin
 
-Hugo
-
+Hugo + Netlify + Forestry
+ 
 Theme : hugo-coder
 
