@@ -38,7 +38,6 @@ Menambahkan tema default [Ananke.](https://github.com/theNewDynamic/gohugo-theme
 cd dir-name-site
 git init
 git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
-'''
 ```
 
 Kemudian, tambahkan tema pada `config.toml`
