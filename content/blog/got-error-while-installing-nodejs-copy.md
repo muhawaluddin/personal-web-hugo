@@ -1,30 +1,17 @@
 +++
 date = 2021-12-30T16:00:00Z
 draft = true
-title = "Got error while installing nodejs-(copy)"
+title = "Programer drag and drop, waw!"
 
 +++
-# Got error while installing nodejs
+# Teta.so
 
-kamu dapat mengakses issue ini di link berikut . [klik disini!](https://github.com/nodesource/distributions/issues/1157 "Error Nodejs")
+Beberapa jam yang lalu aku scroll-scrool feed instagram. Tiba-tiba aku tercengang dengan postingan seseorang sedang mendesain interface mobile app. Aku pikir menggunakan Figma atau XD. Setelah ku perhatikan dengan baik-baik ternyata bukan, gays. Sesuai judulnya, ia menggunakan [teta.so](https://teta.so/ "teta.so"). 
 
-Error yang terjadi Anda belum mengapus nodejs yang lama setelah melakukan install nodejs versi yang lain. Sehingga ketika akan melakukan install aplikasi akan terjadi error. 
+Nih, penampakannya!  
+  
+![](/uploads/teta-so.png)
 
-    Error while installing package: trying to overwrite '/usr/share/doc/nodejs/api/fs.html', which is also in package nodejs-doc 12.22.5~dfsg-5ubuntu1
+Hebatnya **teta.so** nih, sudah menggunakan base bahasa pemograman [Dart](https://dart.dev/) atau framework [Flutter](https://flutter.dev/). 
 
-Untuk teman-teman yang punya masalah yang sama:
-
-    cd /etc/apt/sources.list.d 
-    sudo rm nodesource.list
-
-Lakukan update apt, fix the install, hapus **nodejs** dan **nodejs-doc** packages
-
-    sudo apt --fix-broken install
-    sudo apt update
-    sudo apt remove nodejs
-    sudo apt remove nodejs-doc
-
-Install nodejs terbaru, untuk saat ini tersedia versi 17.
-
-    curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-    sudo apt-get install -y nodejs
+Walaupun masih terbilang sangat baru, teta.so menurutku patut untuk explore lebih lagi. Untuk desain interface mobile app, menurutku sangat mudah. Apalagi untuk project dengan timeline yang singkat. Sangat direkomendasikan pakai teta.so ini, gays.
