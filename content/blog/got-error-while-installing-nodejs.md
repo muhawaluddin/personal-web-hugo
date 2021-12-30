@@ -1,5 +1,5 @@
 +++
-date = 2021-12-07T10:25:12Z
+date = 2021-12-30T16:00:00Z
 title = "Got error while installing nodejs"
 
 +++
